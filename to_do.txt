@@ -1,5 +1,6 @@
 To Do List
 
+principal clean
 laundry
 dry cleaning
 buy groceries
